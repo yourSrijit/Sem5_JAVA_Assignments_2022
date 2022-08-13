@@ -5,7 +5,7 @@
 //TwoD and override the method area() according to their shape.
 package Assignments;
 
-import org.w3c.dom.css.Rect;
+
 
 abstract class TwoD{
 	int length,breadth;
